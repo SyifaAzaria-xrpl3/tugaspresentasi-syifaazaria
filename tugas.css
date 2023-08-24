@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+body{
+    background-color: burlywood;
+}
+.nama{
+    color: rgb(82, 71, 158);
+}
+.panggilan{
+    color: blanchedalmond;
+}
+
+.tempat{
+    color: rgb(231, 24, 24);
+}
+
+.tanggal{
+    color: rgb(155, 102, 38);
+}
+
+.sekolah{
+    color: rgb(148, 63, 3);
+}
+
+.kelas{
+    color: crimson;
+}
+.hobby{
+    color: rgb(165, 148, 0);
+}
+
+.cita{
+    color: rgb(139, 38, 2);
+}
+
+.adek{
+    color: rgb(46, 6, 192);
+}
